@@ -1,2 +1,3 @@
 #Para que no se sube el ejecutable
 *.exe
+/.vscode
